@@ -9,6 +9,7 @@ public class Employe {
 		
 		Double totalPay = salary + bonus;
 		System.out.println("totalpay = " + totalPay);
+
 		
 	}	
 }
